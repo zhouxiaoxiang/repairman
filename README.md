@@ -1,20 +1,10 @@
 # 快速修复器
 
-  快速修复微服务容器中的JAVA类、JAR、SQL和前端代码
+  快速修复微服务容器中的CLASS、JAR、SQL
+  
+## 获取发布版
 
-## 导入
-
-```go
-import "github.com/zhouxiaoxiang/repairman/v5"
-```
-
-## 示例
-
-```go
-man := repairman.NewRepairman()
-man.RepairWeb()
-man.RepairJar()
-```
+`wget https://raw.githubusercontent.com/zhouxiaoxiang/tools/main/repairman`
 
 ## 用法
 
@@ -37,3 +27,19 @@ man.RepairJar()
 ### 开始修复
 
   `./repairman`
+
+## 编程方式
+
+### 导入
+
+```go
+import "github.com/zhouxiaoxiang/repairman/v5"
+```
+
+### 示例
+
+```go
+man := repairman.NewRepairman()
+man.RepairWeb()
+man.RepairJar()
+```
