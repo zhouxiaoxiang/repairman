@@ -36,15 +36,9 @@
 
 ## 以下为编程方式，普通用户可以忽略
 
-### 导入
-
 ```go
 import "github.com/zhouxiaoxiang/repairman/v5"
-```
 
-### 示例
-
-```go
 man := repairman.NewRepairman()
 man.RepairWeb()
 man.RepairJar()
