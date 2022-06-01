@@ -6,25 +6,27 @@
 
   [下载](https://media.githubusercontent.com/media/zhouxiaoxiang/tools/main/repairman)
 
-  如下载失败，可以直接从 https://github.com/zhouxiaoxiang/tools/中下载repairman
+  如下载失败，可以直接从 `https://github.com/zhouxiaoxiang/tools/`中下载repairman
 
 ## 用法
 
 ### class
 
-  按照包名放入BOOT-INF/classes/
+  按照包名放入`BOOT-INF/classes/`
 
 ### sql
 
-  sql脚本放入BOOT-INF/classes/db/migration/
+  sql脚本放入`BOOT-INF/classes/db/migration/`
 
 ### jar
 
-  将jar文件加到BOOT-INF/lib/
+  将jar文件加到`BOOT-INF/lib/`
 
 ### 前端代码
 
-  client-plat-1.1.10.tar.gz 或者 client-plat-1.1.10
+  `client-plat-1.1.10.tar.gz` 或者 `client-plat-1.1.10`
+  
+  错误格式会忽略哦
 
 ### 开始修复
 
