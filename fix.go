@@ -37,11 +37,6 @@ type Repairman struct {
 	cs []types.Container
 }
 
-func init() {
-	fmt.Println(NGINX)
-	fmt.Println(TARGET)
-}
-
 func NewRepairman() *Repairman {
 	cs, err := c.List(ctx)
 	if err != nil {

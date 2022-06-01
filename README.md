@@ -4,7 +4,9 @@
   
 ## 获取发布版
 
-`wget https://raw.githubusercontent.com/zhouxiaoxiang/tools/main/repairman`
+  [下载](https://media.githubusercontent.com/media/zhouxiaoxiang/tools/main/repairman)
+
+  如下载失败，可以直接从 https://github.com/zhouxiaoxiang/tools/中下载repairman
 
 ## 用法
 
@@ -28,7 +30,9 @@
 
   `./repairman`
 
-## 编程方式
+  如果存在JAVA目录，程序会提示用户选择微服务容器
+
+## 以下为编程方式，普通用户可以忽略
 
 ### 导入
 
