@@ -4,9 +4,9 @@
   
 ## 获取发布版
 
-  [下载](https://media.githubusercontent.com/media/zhouxiaoxiang/tools/main/repairman)
+  [点击此处下载执行程序](https://media.githubusercontent.com/media/zhouxiaoxiang/tools/main/repairman)
 
-  如下载失败，可以直接从 `https://github.com/zhouxiaoxiang/tools/`中下载repairman
+  如下载失败，可直接从 [这里](https://github.com/zhouxiaoxiang/tools/)下载repairman
 
 ## 用法
 
